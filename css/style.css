@@ -82,14 +82,14 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('Img/header10.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
   position: relative;
 }
 
 .hero .content .bg img {
+  background-image: url('Img/header10.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   width: 400px;
 }
 
