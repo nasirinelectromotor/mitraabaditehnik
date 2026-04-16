@@ -89,6 +89,10 @@ body {
   position: relative;
 }
 
+.hero .content .bg img {
+  width: 400px;
+}
+
 .hero::after {
   content: "";
   display: block;
